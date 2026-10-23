@@ -1,8 +1,8 @@
 function love.load()
-	Object = require("classic")
-	require("player")
-	require("enemy")
-	require("bullet")
+	Object = require("lua.libs.classic")
+	require("lua.player")
+	require("lua.enemy")
+	require("lua.bullet")
 
 	player = Player()
 	enemy = Enemy()
