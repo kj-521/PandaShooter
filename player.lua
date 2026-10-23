@@ -1,7 +1,7 @@
 Player = Object:extend()
 
 function Player:new()
-	self.image = love.graphics.newImage("panda.png")
+	self.image = love.graphics.newImage("content/sprites/panda.png")
 	self.x = 300
 	self.y = 20
 	self.speed = 500

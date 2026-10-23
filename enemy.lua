@@ -1,7 +1,7 @@
 Enemy = Object:extend()
 
 function Enemy:new()
-	self.image = love.graphics.newImage("snake.png")
+	self.image = love.graphics.newImage("content/sprites/snake.png")
 	self.x = 325
 	self.y = 450
 	self.speed = 100
