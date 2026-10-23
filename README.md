@@ -1,2 +1,4 @@
 # Playing the game
-it's in the bin folder idk
+Arrow keys L/R
+
+Shoot with space
